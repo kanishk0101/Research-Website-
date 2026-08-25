@@ -1,0 +1,742 @@
+[
+  {
+    "id": "74",
+    "authors": "K.V. Barhate, Smrutiranjan Nayak, M. A. Ahemad, K. Glusac, S Bose, Neeraj Agarwal",
+    "title": "Modulating the singlet-triplet energy gap with regio-specific substitution on dibenzo(a,c)phenazine to realize red TADF and their OLEDs.",
+    "journal": "Chemistry - An Asian J.",
+    "volume": "21(1)",
+    "pages": "E70485",
+    "year": "2026",
+    "doi": "10.1002/asia.70485"
+  },
+  {
+    "id": "73",
+    "authors": "R. Reji, J. P. Vizuet, X. Yan, B. K. Behera, X. Zheng, M. Klenk, N. P. Weingartz, G. T. Kostopoulos, L. X. Chen, P. Zapol, Neeraj Agarwal, E. Huerta, M. Keceli, and K. D.Glusac",
+    "title": "Photochemical CO2 Reduction by a Postsynthetically Modified Zr-MOF",
+    "journal": "Inorg. Chem.",
+    "volume": "64",
+    "pages": "18304-18315",
+    "year": "2025",
+    "doi": "10.1021/acs.inorgchem.5c02600"
+  },
+  {
+    "id": "72",
+    "authors": "KV Barhate, MA Ahemad, J Dutta, S Bose, Neeraj Agarwal",
+    "title": "Unveiling dual emission in powder form of acridone-amine derivatives and efficient OLEDs with 12% EQE.",
+    "journal": "J. Photochem. Photobiol. A: Chem.",
+    "volume": "468",
+    "pages": "116468",
+    "year": "2025",
+    "doi": "10.1016/j.jphotochem.2025.116468"
+  },
+  {
+    "id": "71",
+    "authors": "Komal V. Barhate, K. Glusac and Neeraj Agarwal",
+    "title": "Ultralong Room Temperature Phosphorescence Induced by H-bonding and Interactions in Halogen free Carbazole Derivatives.",
+    "journal": "J. Phys. Chem. C",
+    "volume": "129",
+    "pages": "4565-4574",
+    "year": "2025",
+    "doi": "10.1021/acs.jpcc.4c06442"
+  },
+  {
+    "id": "70",
+    "authors": "R. Reji, J. P. Vizuet, X. Yan, B. K. Behera, X. Zheng, M. Klenk, N. P. Weingartz, G. T. Kostopoulos, L. X. Chen, P. Zapol, Neeraj Agarwal, E. Huerta, M. Keceli, and K. D.Glusac",
+    "title": "Product Selectivity in Photochemical CO2 Reduction by a Post synthetically Modified Zr-MOF",
+    "journal": "ChemRxiv.",
+    "volume": "",
+    "pages": "",
+    "year": "2025",
+    "doi": ""
+  },
+  {
+    "id": "69",
+    "authors": "Swati Dixit, R. Ghosh and Neeraj Agarwal",
+    "title": "Unveiling emissive H-aggregates of benzocoronenediimide, their photophysics and ultrafast exciton dynamics.",
+    "journal": "Phys. Chem. Chem. Phys.",
+    "volume": "27",
+    "pages": "175-181",
+    "year": "2025",
+    "doi": "10.1039/d4cp04084h"
+  },
+  {
+    "id": "68",
+    "authors": "Swati Dixit, R. Ghosh and Neeraj Agarwal",
+    "title": "Optimization of green/amber OLED devices of fluorescent perylene derivatives.",
+    "journal": "AIP Conf. Proc.",
+    "volume": "3067",
+    "pages": "020012",
+    "year": "2024",
+    "doi": "10.1063/5.0204344"
+  },
+  {
+    "id": "67",
+    "authors": "Komal V. Barhate, P. R. Chanda, M. Poojary, S. Bose, Neeraj Agarwal",
+    "title": "Dual Emission and Low-Temperature Afterglow in Xanthone-Dibenzoazepine for High EQE Host-Guest OLEDs with Low Efficiency Roll-Off.",
+    "journal": "ACS Applied Mater. Interface",
+    "volume": "16",
+    "pages": "62446-62455",
+    "year": "2024",
+    "doi": "10.1021/acsami.4c10923"
+  },
+  {
+    "id": "66",
+    "authors": "Sneha Mishra, S. B. Shelar, Saiprakash Rout, P. A. Hassan, K. C. Barick, Neeraj Agarwal",
+    "title": "Enhanced singlet oxygen generation in aggregates of naphthalene fused BODIPY and its application in photodynamic therapy.",
+    "journal": "ACS Applied Bio Materials",
+    "volume": "7",
+    "pages": "7207-7218",
+    "year": "2024",
+    "doi": "10.1021/acsabm.4c00804"
+  },
+  {
+    "id": "65",
+    "authors": "Swati J. N. Dixit, Amey P. Wadawale, Rajib K. Ghosh and Neeraj Agarwal",
+    "title": "Excited state dynamics of bay and peri benzothienyl perylene to understand the excimer formation and its dissociation",
+    "journal": "J. Photochem. Photobiol. A: Chem.",
+    "volume": "447",
+    "pages": "115179",
+    "year": "2024",
+    "doi": "10.1016/j.jphotochem.2023.115179"
+  },
+  {
+    "id": "64",
+    "authors": "K. V. Barhate, A. P. Wadawale, K. R. S. Chandrakumar and Neeraj Agarwal",
+    "title": "Modulation of \u0394EST and room temperature phosphorescence in carbazole derivatives.",
+    "journal": "Chem. Commun.",
+    "volume": "60",
+    "pages": "1408-1411",
+    "year": "2024",
+    "doi": "10.1039/d3cc05119f"
+  },
+  {
+    "id": "63",
+    "authors": "Sneha Mishra, Sandeep B. Shelar, K. C. Barick, P. A. Hassan, and Neeraj Agarwal",
+    "title": "High Singlet Oxygen Generating Benzothienyl-[b]-fused BODIPY Nanoaggregates and Photoinduced Apoptosis in Human Carcinoma.",
+    "journal": "Chemistry Select",
+    "volume": "9",
+    "pages": "e202400894",
+    "year": "2024",
+    "doi": "10.1002/slct.202400894"
+  },
+  {
+    "id": "62",
+    "authors": "Chandan V. Gupta, Swati J. Dixit, Neeraj Agarwal and S. Bose",
+    "title": "Film thickness dependent color purity of WOLEDs in a Phenanthroimidazole derivative due to electromers.",
+    "journal": "Synthetic metals",
+    "volume": "304",
+    "pages": "117570",
+    "year": "2024",
+    "doi": "10.1016/j.synthmet.2024.117570"
+  },
+  {
+    "id": "61",
+    "authors": "S. Mishra, S.B. Shelar, K. C. Barick, PA Hassan and Neeraj Agarwal",
+    "title": "Near infra-red absorbing Quinolizidine fused curcuminoid-BF2 chelate and its applications in photodynamic therapy using MCF-7 and A549 cells.",
+    "journal": "Photodiagnosis and Photodynamic Therapy",
+    "volume": "45",
+    "pages": "103951",
+    "year": "2024",
+    "doi": "10.1016/j.pdpdt.2023.103951"
+  },
+  {
+    "id": "60",
+    "authors": "S Mishra, Daniela dos Santos, S. B. Shelar, K. Reess, A. R\u00fcck, P A Hassan, K C Barick, Neeraj Agarwal",
+    "title": "Photocytotoxic and cellular metabolism studies of curcuminoid-BF2 nanoaggregates in human carcinoma cells.",
+    "journal": "J. Photochem. Photobiol. A: Chem.",
+    "volume": "457",
+    "pages": "115902",
+    "year": "2024",
+    "doi": "10.1016/j.jphotochem.2024.115902"
+  },
+  {
+    "id": "59",
+    "authors": "Sneha Mishra and Neeraj Agarwal",
+    "title": "Design and Synthesis of Difluoroboronite Curcuminoid derivatives for application in photodynamic therapy",
+    "journal": "Photodiagnosis and Photodynamic Therapy",
+    "volume": "46",
+    "pages": "104091",
+    "year": "2024",
+    "doi": "10.1016/j.pdpdt.2024.104183"
+  },
+  {
+    "id": "58",
+    "authors": "Swati J. N. Dixit and Neeraj Agarwal",
+    "title": "Blue shifted phosphorescence (3LE) as compare to charge transfer singlet emission (1CT) in fluorenone-amine dyads under ambient conditions.",
+    "journal": "J. Mol. Str.",
+    "volume": "1316",
+    "pages": "139028",
+    "year": "2024",
+    "doi": "10.1016/j.molstruc.2024.139028"
+  },
+  {
+    "id": "57",
+    "authors": "L. Panicker, M. Mestry and Neeraj Agarwal",
+    "title": "Iso-structural phase transitions in urea 4-carboxyanilinium nitrate crystal.",
+    "journal": "J. Mol, Str.",
+    "volume": "1317",
+    "pages": "139026",
+    "year": "2024",
+    "doi": "10.1016/j.molstruc.2024.139026"
+  },
+  {
+    "id": "56",
+    "authors": "C.V. Gupta, S.J. Dixit, Neeraj Agarwal, S. Bose",
+    "title": "Recombination zone shift in OLEDs of the pyrene-phenanthroimidazole conjugate giving cyan and green emission.",
+    "journal": "Physica Scripta",
+    "volume": "99",
+    "pages": "085011",
+    "year": "2024",
+    "doi": "10.1088/1402-4896/ad5c1a"
+  },
+  {
+    "id": "55",
+    "authors": "S. Dixit, S. Chacko, B. Manna and Neeraj Agarwal",
+    "title": "Ultrafast Dynamics of Photoinduced Electron Transfer in Bay-Aryl-Substituted Perylene Diimide Derivatives.",
+    "journal": "J. Phys. Chem. B",
+    "volume": "126",
+    "pages": "5908-5917",
+    "year": "2022",
+    "doi": "10.1021/acs.jpcb.2c03952"
+  },
+  {
+    "id": "54",
+    "authors": "C. Gupta, S. Dixit, Neeraj Agarwal and S. Bose",
+    "title": "Voltage tunable white light generation from combined emission of monomer and electromer in phenanthroimidazole based OLED.",
+    "journal": "J. Photochem. Photobiol. A: Chem.",
+    "volume": "429",
+    "pages": "113922",
+    "year": "2022",
+    "doi": "10.1016/j.jphotochem.2022.113922"
+  },
+  {
+    "id": "53",
+    "authors": "S. Dixit, C. Gupta, G.S.Naidu, S. Bose and Neeraj Agarwal",
+    "title": "peri-N-amine-perylenes, with and without phenyl bridge: Photophysical studies and their OLED applications.",
+    "journal": "J. Photochem. Photobiol. A: Chem.",
+    "volume": "426",
+    "pages": "113710-113718",
+    "year": "2021",
+    "doi": "10.1016/j.jphotochem.2021.113710"
+  },
+  {
+    "id": "52",
+    "authors": "S. Dixit, A. A. Awasthi, K. R. S. Chandrakumar, B. Manna and Neeraj Agarwal",
+    "title": "Ultrafast Dynamics and Estimation of Singlet Exciton Diffusion Parameters for Nanoaggregates of peri and bay Anisyl Perylene.",
+    "journal": "J. Phys. Chem. C",
+    "volume": "125",
+    "pages": "20405-20415",
+    "year": "2021",
+    "doi": "10.1021/acs.jpcc.1c05709"
+  },
+  {
+    "id": "51",
+    "authors": "S. Dixit, C. Gupta, T. H. Tadavi, K R S Chandrakumar, S. Bose and Neeraj Agarwal",
+    "title": "Phenanthroimidazole derivatives showing mild intramolecular charge transfer, high quantum yield and their applications in OLEDs.",
+    "journal": "New J. Chem.",
+    "volume": "45",
+    "pages": "16238-16247",
+    "year": "2021",
+    "doi": "10.1039/d1nj02134f"
+  },
+  {
+    "id": "50",
+    "authors": "V. Singh, N. Gupta, G. Hargenrader, E. Askins, A. Valentine, G. Kumar, M. Mara, Neeraj Agarwal, X. Li, L. Chen, A. Cordones, and K. Glusac",
+    "title": "Photophysics of graphene quantum dot assemblies with axially coordinated cobaloxime catalysts.",
+    "journal": "J. Chem. Phys.",
+    "volume": "153",
+    "pages": "124903",
+    "year": "2020",
+    "doi": "10.1063/5.0018581"
+  },
+  {
+    "id": "49",
+    "authors": "B. Manna, A. Nandi, S. Nath, Neeraj Agarwal, and R. Ghosh",
+    "title": "Comparative studies of photophysics and exciton dynamics of different diphenylanthracene (DPA) nanoaggregates.",
+    "journal": "J. Photochem. Photobiol. A: Chem.",
+    "volume": "400",
+    "pages": "112700",
+    "year": "2020",
+    "doi": "10.1016/j.jphotochem.2020.112700"
+  },
+  {
+    "id": "48",
+    "authors": "Q. T. Siddiqui, A. A. Awasthi, P. Bhui, M. Muneer, K.R.S. Chandrakumar, S. Bose, and Neeraj Agarwal",
+    "title": "Thermally Activated Delayed Fluorescence (Green) in Undoped Film and Exciplex Emission (Blue) in Acridone Carbazole Derivatives for OLEDs.",
+    "journal": "J. Phys. Chem. C",
+    "volume": "123",
+    "pages": "1003-1014",
+    "year": "2019",
+    "doi": "10.1021/acs.jpcc.8b08357"
+  },
+  {
+    "id": "47",
+    "authors": "Q. T. Siddiqui, A. A. Awasthi, P. Bhui, P. Parab, M. Muneer, S. Bose and Neeraj Agarwal",
+    "title": "TADF and exciplex emission in a xanthone carbazole derivative and tuning of its electroluminescence with applied voltage.",
+    "journal": "RSC Adv.",
+    "volume": "9",
+    "pages": "40248-40254",
+    "year": "2019",
+    "doi": "10.1039/c9ra08227a"
+  },
+  {
+    "id": "46",
+    "authors": "A. Awasthi, N. Gupta, Q. Siddiqui, P. Parab, D. K. Palit, S. Bose and Neeraj Agarwal",
+    "title": "Synthesis of Acridone-naphthylamine derivative and its Thermally Activated Delayed Fluorescence studies for application in OLEDs.",
+    "journal": "J. Chem. Sci.",
+    "volume": "131:94",
+    "pages": "1-8",
+    "year": "2019",
+    "doi": "10.1007/s12039-019-1667-9"
+  },
+  {
+    "id": "45",
+    "authors": "s. Dixit, T. Mahaddalkar, M. Lopus and Neeraj Agarwal",
+    "title": "Synthesis, photophysical studies of positional isomers of heteroaryl BODIPYs, and biological evaluation of Di-pyrrolyl BODIPY on human pancreatic cancer cells.",
+    "journal": "J. Photochem. Photobiol. A: Chem.",
+    "volume": "353",
+    "pages": "368-375",
+    "year": "2018",
+    "doi": "10.1016/j.jphotochem.2017.11.019"
+  },
+  {
+    "id": "44",
+    "authors": "Q. T. Siddiqui, P. Bhui, M. Muneer, K.R.S. Chandrakumar, S. Bose, and Neeraj Agarwal",
+    "title": "Nanoassembly of Dipolar Imidazoanthraquinone Derivatives Leading to Enhanced Hole Mobility.",
+    "journal": "J. Phys. Chem. C",
+    "volume": "122",
+    "pages": "25804-25812",
+    "year": "2018",
+    "doi": "10.1021/acs.jpcc.8b07224"
+  },
+  {
+    "id": "43",
+    "authors": "P Bhui, Q. T. Siddiqui, M Muneer, Neeraj Agarwal and S. Bose",
+    "title": "Deep blue organic light-emitting diodes of 1, 8-diaryl anthracene.",
+    "journal": "J. Chem. Sc.",
+    "volume": "130",
+    "pages": "167",
+    "year": "2018",
+    "doi": "10.1007/s12039-018-1571-8"
+  },
+  {
+    "id": "42",
+    "authors": "S. Dixit, A. Awasthi, S. Ash, P. K. Singh and Neeraj Agarwal",
+    "title": "Synthesis and photophysical properties of near infra-red absorbing BODIPy derivatives and their nanoaggregates.",
+    "journal": "J. Photochem. Photobiol. A: Chem.",
+    "volume": "353",
+    "pages": "368-373",
+    "year": "2018",
+    "doi": "10.1016/j.jphotochem.2018.07.020"
+  },
+  {
+    "id": "41",
+    "authors": "F Ali, P K Nayak, N. Periasamy, Neeraj Agarwal",
+    "title": "Synthesis, photophysical, electrochemicaland electroluminescence studies of red emitting phosphorescent Ir(III) heteroleptic complexes.",
+    "journal": "J. Chem. Sc.",
+    "volume": "129,",
+    "pages": "1391-1398",
+    "year": "2017",
+    "doi": "10.1007/s12039-017-1350-y"
+  },
+  {
+    "id": "40",
+    "authors": "B. Sharma, S. Dixit, S. Chacko, R. M. Kamble and Neeraj Agarwal",
+    "title": "Synthesis and studies of imidazoanthraquinone derivatives for applications in organic electronics.",
+    "journal": "Eur. J. Org. Chem.",
+    "volume": "",
+    "pages": "4389-4400",
+    "year": "2017",
+    "doi": "10.1002/ejoc.201700769"
+  },
+  {
+    "id": "39",
+    "authors": "S. Dixit and Neeraj Agarwal",
+    "title": "Synthesis of imidazoaryl-BODIPy derivatives for anion sensing applications.",
+    "journal": "J. Photochem. Photobiol. A: Chem.",
+    "volume": "343",
+    "pages": "66-71",
+    "year": "2017",
+    "doi": "10.1016/j.jphotochem.2017.04.018"
+  },
+  {
+    "id": "38",
+    "authors": "K. J. Jairaj, A. Nimesh, S. Raj and Neeraj Agarwal",
+    "title": "3-/3,5-Pyrrole-substituted BODIPY derivatives and their photophysical and electrochemical studies.",
+    "journal": "J. Chem. Sc.",
+    "volume": "128",
+    "pages": "1435-1443",
+    "year": "2016",
+    "doi": "10.1007/s12039-016-1134-9"
+  },
+  {
+    "id": "37",
+    "authors": "S. Dixit, Q. T. Siddiqui, M. Muneer and Neeraj Agarwal,",
+    "title": "Ferrocene catalysed C-H arylation of arenes and reaction mechanism study using cyclic voltammetry.",
+    "journal": "Tetrahedron Letters",
+    "volume": "57",
+    "pages": "4228-4231",
+    "year": "2016",
+    "doi": "10.1016/j.tetlet.2016.08.020"
+  },
+  {
+    "id": "36",
+    "authors": "S. Dixit, M. Patil and Neeraj Agarwal",
+    "title": "Ferrocene catalysed heteroarylation of BODIPy and reaction mechanism studies by EPR and DFT methods RSC Advances",
+    "journal": "RSC Adv.",
+    "volume": "6",
+    "pages": "47491-47497",
+    "year": "2016",
+    "doi": "10.1039/c6ra03705d"
+  },
+  {
+    "id": "35",
+    "authors": "B. Sharma, Azam M. Shaikh, Neeraj Agarwal and R. Kamble",
+    "title": "Synthesis, photophysical and electrochemical studies of acridone-amine based donor acceptors for hole transport materials.",
+    "journal": " RSC Adv.",
+    "volume": "6",
+    "pages": "17129-17137",
+    "year": "2016",
+    "doi": "10.1039/c5ra25115j"
+  },
+  {
+    "id": "34",
+    "authors": "Neeraj Agarwal, Manish Patil and M. Patil",
+    "title": "Synthesis of highly emissive 1,8-diaryl anthracene derivatives and fabrication of their micro/ nanostructures.",
+    "journal": " RSC Adv.",
+    "volume": "5",
+    "pages": "98447-98455",
+    "year": "2015",
+    "doi": "10.1039/c5ra19564k"
+  },
+  {
+    "id": "33",
+    "authors": "S. M. Shiriskar, Neeraj Agarwal, R.R.S. Pissurlenkar and B. Ahmad",
+    "title": "Effects of 2-amino-8-hydroxyquinoline interaction on the conformation of physiological isomers of human serum albumin.",
+    "journal": "Eur. Biophys. J.",
+    "volume": "44",
+    "pages": "193-205",
+    "year": "2015",
+    "doi": "10.1007/s00249-015-1014-0"
+  },
+  {
+    "id": "32",
+    "authors": "D. Lakhe, K. K. Jairaj, M. Pradhan, U. Ladiwala and Neeraj Agarwal",
+    "title": "Synthesis and photophysical studies of heteroaryl substituted-BODIPy derivatives for biological applications.",
+    "journal": "Tetrahedron Letters",
+    "volume": "55",
+    "pages": "7124-7129",
+    "year": "2014",
+    "doi": "10.1016/j.tetlet.2014.11.004"
+  },
+  {
+    "id": "31",
+    "authors": "Tamanna K. Khan, Preeti Sheokand and Neeraj Agarwal",
+    "title": "Synthesis and studies of aza-BODIPY based pi-conjugates for organic electronic applications Eur. J. Org. Chem.",
+    "journal": "Eur. J. Org. Chem.",
+    "volume": "7",
+    "pages": "1416",
+    "year": "2013",
+    "doi": "10.1002/ejoc.201301300"
+  },
+  {
+    "id": "30",
+    "authors": "N. Kamtekar, A. Pandey, Neeraj Agarwal, R. P. S. Pissurlenkar, M. Borana and B. Ahmad",
+    "title": "Interaction of Multimicrobial Synthetic Inhibitor 1,2-Bis(2-Benzimidazolyl)-1,2-Ethanediol with Serum Albumin: Spectroscopic and Computational Studies.",
+    "journal": " PLoS ONE",
+    "volume": "8",
+    "pages": "E3872",
+    "year": "2013",
+    "doi": "10.1371/journal.pone.0053499"
+  },
+  {
+    "id": "29",
+    "authors": "S. Banerzee, F. Ali, Pabitra K. Nayak, Neeraj Agarwal",
+    "title": "Synthesis, photophysical, electrochemical and thermal studies of carbazole-based acceptor molecules for heterojunction solar cell.",
+    "journal": "Thin Solid Films",
+    "volume": "520",
+    "pages": "2644",
+    "year": "2012",
+    "doi": "10.1016/j.tsf.2011.11.017"
+  },
+  {
+    "id": "28",
+    "authors": "Neeraj Agarwal, Pabitra K. Nayak, Farman Ali, Meghan P. Patankar, K. L. Narasimhan, N. Periasamy",
+    "title": "Tuning of HOMO levels of carbazole derivatives: New molecules for blue OLED.",
+    "journal": " Synthetic Metals",
+    "volume": "161",
+    "pages": "466",
+    "year": "2011",
+    "doi": "10.1016/j.synthmet.2011.01.001"
+  },
+  {
+    "id": "27",
+    "authors": "Pabitra K. Nayak, Neeraj Agarwal Farman Ali, Meghan P. Patankar, K. L. Narasimhan and N. Periasamy",
+    "title": "Blue and white light electroluminescence in a multilayer OLED using a new aluminium complex.",
+    "journal": " J. Chem. Sci.",
+    "volume": "122",
+    "pages": "847-855",
+    "year": "2010",
+    "doi": "10.1007/s12039-010-0073-0"
+  },
+  {
+    "id": "26",
+    "authors": "Pabitra K. Nayak, Neeraj Agarwal and N. Periasamy",
+    "title": "Synthesis and photophysical studies of new 2,8-diaryldibenzothiophene derivatives.",
+    "journal": " J. Chem. Sci.",
+    "volume": "122",
+    "pages": "119-124",
+    "year": "2010",
+    "doi": "10.1007/s12039-010-0012-0"
+  },
+  {
+    "id": "25",
+    "authors": "Pabitra K. Nayak, Neeraj Agarwal, N. Periasamy, M. P. Patankar and K. L. Narasimhan",
+    "title": "Pure Exciplex Electroluminescence in blended film of small organic molecules.",
+    "journal": " Synthetic Metals",
+    "volume": "160",
+    "pages": "722-727",
+    "year": "2010",
+    "doi": "10.1016/j.synthmet.2010.01.010"
+  },
+  {
+    "id": "24",
+    "authors": "Neeraj Agarwal",
+    "title": "The synthesis and characterization of photonic materials composed of substituted fluorene donors and porphyrin acceptor.",
+    "journal": "Dyes Pigments",
+    "volume": "83",
+    "pages": "328-333",
+    "year": "2009",
+    "doi": "10.1016/j.dyepig.2009.05.011"
+  },
+  {
+    "id": "23",
+    "authors": "F. Ali, Neeraj Agarwal, Pabitra K. Nayak, R. Das and N. Periasamy",
+    "title": "Chemical route to the formation of graphene.",
+    "journal": "Current Science",
+    "volume": "97",
+    "pages": "p683",
+    "year": "2009",
+    "doi": ""
+  },
+  {
+    "id": "22",
+    "authors": "V. A. Montes, G. V. Zyryanov, Evgeny Danilov, Neeraj Agarwal, M. A. Palacios and P. Anzenbacher, Jr.",
+    "title": "Ultrafast Energy Transfer in Oligo\ufb02uorene\u2212Aluminum Bis(8hydroxyquinoline)acetylacetone Coordination Polymers.",
+    "journal": " J. Am. Chem. Soc.",
+    "volume": "131",
+    "pages": "1787-1795",
+    "year": "2009",
+    "doi": "10.1021/ja805175w"
+  },
+  {
+    "id": "21",
+    "authors": "Neeraj Agarwal and Pabitra K. Nayak",
+    "title": "Synthesis, characterization, photophysical and electrochemical properties of new phosphorescent dopants for OLEDs.",
+    "journal": "Tetrahedron Letters",
+    "volume": "49",
+    "pages": "2710-2713",
+    "year": "2008",
+    "doi": "10.1016/j.tetlet.2008.02.158"
+  },
+  {
+    "id": "20",
+    "authors": "Neeraj Agarwal, Pabitra K. Nayak and N. Periasamy",
+    "title": "Synthesis, photoluminescence and electrochemical properties of 2,7-diarylfluorene derivatives.",
+    "journal": " J. Chem. Sc.",
+    "volume": "120",
+    "pages": "355-362",
+    "year": "2008",
+    "doi": "10.1007/s12039-008-0059-3"
+  },
+  {
+    "id": "19",
+    "authors": "S. Punidha, Neeraj Agarwal, Iti Gupta and M. Ravikanth",
+    "title": "meso-5-Bromo-10,15,20-tri(p-tolyl)-21-thiaporphyrin as a Precursor for the Synthesis of Novel Compounds.",
+    "journal": "Eur. J. Org. Chem.",
+    "volume": "7",
+    "pages": "1168-1175",
+    "year": "2007",
+    "doi": "10.1002/ejoc.200600867"
+  },
+  {
+    "id": "18",
+    "authors": "P. K. Nayak, Neeraj Agarwal, N. Periasamy, M. P. Patankar and K. L. Narasimhan",
+    "title": "Red shifted electroluminescence in OLEDs using organic alloy of hole transport materials.",
+    "journal": "Physics of Semiconductor Devices",
+    "volume": "",
+    "pages": "567-568",
+    "year": "2007",
+    "doi": "10.1109/IWPSD.2007.4472579"
+  },
+  {
+    "id": "17",
+    "authors": "V. A. Montes, C. Prez, Neeraj Agarwal, J. Shinar, P. Anzenbacher, Jr.",
+    "title": "Molecular-Wire Behavior of OLED Materials: Exciton Dynamics in Multichromophoric Alq3-OligoFluorene-Pt(II)Porphyrin Triads.",
+    "journal": " J. Am. Chem. Soc.",
+    "volume": "128",
+    "pages": "12436-12438",
+    "year": "2006",
+    "doi": "10.1021/ja064471i"
+  },
+  {
+    "id": "16",
+    "authors": "S. Punidha, Neeraj Agarwal and M. Ravikanth",
+    "title": "A Simple Route to Prepare Mono-functionalized 21-Thia, 21,23-Dithia and 21-Thia 23Oxaporphyrins Using Unsymmetrical Thiophene Diols as Key Synthons and their Use in the Synthesis of Covalently Linked Unsymmetrical Porphyrin Dimers.",
+    "journal": "Eur. J. Org. Chem.",
+    "volume": "12",
+    "pages": "2500-2517",
+    "year": "2005",
+    "doi": "10.1002/ejoc.200400887"
+  },
+  {
+    "id": "15",
+    "authors": "Neeraj Agarwal, Sarada P. Mishra, A. Kumar, C-H Hung and M. Ravikanth",
+    "title": "The Synthesis and Crystal Structure of b-Substituted Thiaporphyrins with Novel Cyclic Substituent.",
+    "journal": " Bull. Chem. Soc. Jp.",
+    "volume": "77",
+    "pages": "1173",
+    "year": "2004",
+    "doi": "10.1246/bcsj.77.1173"
+  },
+  {
+    "id": "14",
+    "authors": "Neeraj Agarwal and M. Ravikanth",
+    "title": "Synthesis of beta-pyrrole and beta-thiophene substituted 21,23-dithia and 21-monothiaporphyrins.",
+    "journal": "Tetrahedron",
+    "volume": "60",
+    "pages": "4739-4747",
+    "year": "2004",
+    "doi": "10.1016/j.tet.2004.03.047"
+  },
+  {
+    "id": "13",
+    "authors": "S. Punidha, Neeraj Agarwal, Ritwik Burai and M. Ravikanth",
+    "title": "Synthesis of N3S, N3O, N2S2, N2O2, N2SO and N2OS porphyrins with one mesounsubstituted carbon.",
+    "journal": "Eur. J. Org. Chem.",
+    "volume": "10",
+    "pages": "2223-2230",
+    "year": "2004",
+    "doi": "10.1002/ejoc.200300697"
+  },
+  {
+    "id": "12",
+    "authors": "Iti Gupta, Neeraj Agarwal and M. Ravikanth",
+    "title": "A Novel and Rapid Synthetic Routes to A3B and AB3 Type 21-Thia porphyrins and their use in the Construction of Unsymmetrical Covalent and Non-covalent Porphyrin Arrays.",
+    "journal": "Eur. J. Org. Chem.",
+    "volume": "8",
+    "pages": "1693-1697",
+    "year": "2004",
+    "doi": "10.1002/ejoc.200300764"
+  },
+  {
+    "id": "11",
+    "authors": "Neeraj Agarwal, C.-H. Hung and M. Ravikanth",
+    "title": "Synthesis and crystal structures of 2,3,12,13-tetraalkoxy-21,23-dithiaporphyrins and 2,3dialkoxy-21-monothiaporphyrins.",
+    "journal": "Tetrahedron",
+    "volume": "60",
+    "pages": "10671-10680",
+    "year": "2004",
+    "doi": "10.1016/j.tet.2004.09.008"
+  },
+  {
+    "id": "10",
+    "authors": "Neeraj Agarwal and M. Ravikanth",
+    "title": "beta-Substituted and meso-unsubstituted porphyrins with modified cores.",
+    "journal": "J. Por. Phthalocyanines",
+    "volume": "7",
+    "pages": "586",
+    "year": "2004",
+    "doi": ""
+  },
+  {
+    "id": "9",
+    "authors": "Sangita Santra, D. Kumaresan, Neeraj Agarwal and M. Ravikanth",
+    "title": "Cis-pyridyl core-modi\ufb01ed porphyrins for the synthesis of cationic water-soluble porphyrins and unsymmetrical non-covalent porphyrin arrays.",
+    "journal": "Tetrahedron",
+    "volume": "59",
+    "pages": "2353-2362",
+    "year": "2003",
+    "doi": "10.1016/S0040-4020(03)00183-2"
+  },
+  {
+    "id": "8",
+    "authors": "Neeraj Agarwal, Sarada P. Mishra, A. Kumar and M. Ravikanth",
+    "title": "Synthesis of beta-Thiophene-Substituted 21,23-Dithiaporphyrins.",
+    "journal": "Chemistry Letters",
+    "volume": "32",
+    "pages": "744-745",
+    "year": "2003",
+    "doi": "10.1246/cl.2003.744"
+  },
+  {
+    "id": "7",
+    "authors": "Neeraj Agarwal, C-H. Hung and M. Ravikanth",
+    "title": "Thiaporphyrins with four, two and one meso-free carbons: synthesis and functionalizan.",
+    "journal": "Eur. J. Org. Chem.",
+    "volume": "19",
+    "pages": "3730-3734",
+    "year": "2003",
+    "doi": "10.1002/ejoc.200300333"
+  },
+  {
+    "id": "6",
+    "authors": "M. Ravikanth, D. Kumaresan and Neeraj Agarwal",
+    "title": "Core modified porphyrin building blocks and unsymmetrical porphyrin arrays.",
+    "journal": "Indian J. Chem. Sec. A",
+    "volume": "41A",
+    "pages": "82",
+    "year": "2002",
+    "doi": ""
+  },
+  {
+    "id": "5",
+    "authors": "D. Kumaresan, Neeraj Agarwal, I. Gupta and M. Ravikanth",
+    "title": "Synthesis of 21-thia and 21-oxaporphyrin building blocks and boron-dipyrin appended systems.",
+    "journal": "Tetrahedron",
+    "volume": "58",
+    "pages": "5347-5356",
+    "year": "2002",
+    "doi": "10.1016/S0040-4020(02)00482-9"
+  },
+  {
+    "id": "4",
+    "authors": "Neeraj Agarwal, S. P. Mishra, A. Kumar, C-H. Hung and M. Ravikanth",
+    "title": "Synthesis and crystal structure of 2,3,12,13-tetraalkoxy-21,23-dithiaporphyrins.",
+    "journal": "Chem Commun.",
+    "volume": "38",
+    "pages": "2642-2643",
+    "year": "2002",
+    "doi": "10.1039/b208017f"
+  },
+  {
+    "id": "3",
+    "authors": "D. Kumaresan, Neeraj Agarwal and M. Ravikanth",
+    "title": "Synthesis of dithiaporphyrin based singlet - singlet energy transfer systems.",
+    "journal": "J. Chem. Soc. Perkin Trans. I",
+    "volume": "30",
+    "pages": "1644-1648",
+    "year": "2001",
+    "doi": "10.1039/b102349g"
+  },
+  {
+    "id": "2",
+    "authors": "M. Ravikanth, Neeraj Agarwal and D. Kumaresan",
+    "title": "Synthesis of energy donors appended dithiaporphyrin systems.",
+    "journal": "Chemistry Letters",
+    "volume": "29",
+    "pages": "836-837",
+    "year": "2000",
+    "doi": "10.1246/cl.2000.836"
+  },
+  {
+    "id": "1",
+    "authors": "M. R. Maurya, Neeraj Agarwal, Shilpa Khurana",
+    "title": "Synthesis and characterization of metal complexes of methylene bridged hexadentate tetraanionic ligands.",
+    "journal": "Indian J. Chem. Sect A",
+    "volume": "39A",
+    "pages": "1093-1097",
+    "year": "2000",
+    "doi": ""
+  }
+]
