@@ -48,6 +48,12 @@ export default function NewsPage() {
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 mb-12">
             <NewsCard
+              title="New Publication in Spectrochimica Acta Part A"
+              date="2026"
+              category="Publication"
+              summary="Our recent work 'Host-controlled switching between TADF and RTP in acridone–carboline donor–acceptor dyads' has been accepted."
+            />
+            <NewsCard
               title="[NEWS_TITLE]"
               date="[MONTH DD, YYYY]"
               category="[CATEGORY]"

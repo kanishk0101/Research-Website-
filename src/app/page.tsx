@@ -85,6 +85,15 @@ export default function Home() {
           <h2 className="font-heading text-3xl font-bold text-slate-900 mb-8 text-center">Featured Publications</h2>
           <div className="flex flex-col gap-6">
             <PublicationCard
+              title="Host-controlled switching between TADF and RTP in acridone–carboline donor–acceptor dyads."
+              authors="K.V. Barhate, J. Dutta and Neeraj Agarwal"
+              journal="Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy"
+              volume="-"
+              pages="128670"
+              year="2026"
+              doi="10.1016/j.saa.2026.128670"
+            />
+            <PublicationCard
               title="A Portable Device for Estimation of Curcuminoid Content in Turmeric"
               authors="Tanveer H. Tadavi, M. Yadav, B E Vardhmann, K. Subbu, N. Agarwal and K.I. Priyadarsini"
               journal="India Patent App. No. 202221063957 Granted"
