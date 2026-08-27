@@ -114,35 +114,7 @@ export default function Home() {
         </div>
       </section>
 
-      {/* Group Preview */}
-      <section className="py-24 bg-slate-50 border-y border-slate-100">
-        <div className="container mx-auto px-4 text-center max-w-3xl">
-          <h2 className="font-heading text-4xl font-bold text-slate-900 mb-6">Our Team</h2>
-          <p className="text-slate-600 text-lg mb-10">
-            We are a diverse group of passionate scientists, engineers, and thinkers committed to collaborative discovery.
-          </p>
-          <div className="flex justify-center -space-x-4 mb-10">
-            {[
-              "/images/prof-neeraj-agarwal.jpg",
-              "/images/priti-verma.png",
-              "/images/pradnya-parab.png",
-              "/images/shubham-salvi.png",
-              "/images/sneha-mishra.png",
-              "/images/komal-barhate.png"
-            ].map((imgSrc, i) => (
-              <div key={i} className="w-16 h-16 rounded-full border-4 border-white bg-slate-200 flex items-center justify-center shadow-sm overflow-hidden z-0">
-                <img src={imgSrc} alt={`Team Member ${i + 1}`} className="w-full h-full object-cover" />
-              </div>
-            ))}
-            <div className="w-16 h-16 rounded-full border-4 border-white bg-slate-100 flex items-center justify-center shadow-sm z-10">
-              <span className="text-sm font-bold text-slate-500">+3</span>
-            </div>
-          </div>
-          <Link href="/members">
-            <Button>Meet the Group</Button>
-          </Link>
-        </div>
-      </section>
+
 
       {/* Latest News */}
       <section className="py-24 bg-background">
