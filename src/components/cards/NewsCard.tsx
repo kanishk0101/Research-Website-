@@ -18,7 +18,7 @@ export function NewsCard({ title, date, category, summary, imageUrl, isFeatured 
       <div className="group bg-white rounded-3xl overflow-hidden border border-slate-200 shadow-sm hover:shadow-md transition-shadow flex flex-col md:flex-row">
         <div className="md:w-1/2 h-64 md:h-auto bg-slate-100 relative overflow-hidden flex items-center justify-center">
           {imageUrl ? (
-            <img src={imageUrl} alt={title} className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" />
+            <img src={imageUrl} alt={title} className="w-full h-full object-contain p-4 bg-white group-hover:scale-105 transition-transform duration-500" />
           ) : (
             <span className="text-slate-400 font-medium">[FEATURED_IMAGE]</span>
           )}
@@ -49,7 +49,7 @@ export function NewsCard({ title, date, category, summary, imageUrl, isFeatured 
     <div className="group bg-white rounded-3xl overflow-hidden border border-slate-200 shadow-sm hover:shadow-md transition-shadow flex flex-col">
       <div className="h-48 bg-slate-100 relative overflow-hidden flex items-center justify-center">
         {imageUrl ? (
-          <img src={imageUrl} alt={title} className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" />
+          <img src={imageUrl} alt={title} className="w-full h-full object-contain p-4 bg-white group-hover:scale-105 transition-transform duration-500" />
         ) : (
           <span className="text-slate-400 font-medium">[IMAGE]</span>
         )}

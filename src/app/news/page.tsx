@@ -37,6 +37,7 @@ export default function NewsPage() {
             category="Publication"
             summary="Our recent work 'Host-controlled switching between TADF and RTP in acridone–carboline donor–acceptor dyads' has been accepted."
             link="https://doi.org/10.1016/j.saa.2026.128670"
+            imageUrl="/images/publication-spectrochimica.jpg"
             isFeatured={true}
           />
         </section>

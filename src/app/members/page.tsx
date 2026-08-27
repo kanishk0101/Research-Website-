@@ -180,7 +180,7 @@ export default function MembersPage() {
                 <div className="text-left space-y-2">
                   <p><strong>Ph.D. Thesis:</strong> Design, synthesis and development of NIR-absorbing cancer cell-targeted photosensitizers and their applications in photodynamic therapy</p>
                   <p><strong>Viva Voce:</strong> October 28, 2024</p>
-                  <p><em>Currently at IQS Ramon Llull University, Barcelona, Spain</em></p>
+                  <p><em>Currently at: Institut Químic de Sarrià, Universitat Ramon Llull, 08017 Barcelona, Spain.</em></p>
                 </div>
               }
             />
