@@ -10,7 +10,7 @@ export default function ResearchPage() {
     <div className="flex flex-col min-h-screen">
       {/* Hero Banner */}
       <section className="bg-slate-900 text-white py-24 relative overflow-hidden">
-        <div className="absolute inset-0 opacity-10 bg-cover bg-center" style={{ backgroundImage: 'url(https://images.unsplash.com/photo-1516110833967-0b5716ca1387?auto=format&fit=crop&q=80)' }} />
+        <div className="absolute inset-0 opacity-20 bg-cover bg-center" style={{ backgroundImage: 'url(/images/organic-spintronics.jpg)' }} />
         <div className="container mx-auto px-4 relative z-10">
           <div className="max-w-3xl">
             <h1 className="font-heading text-4xl md:text-5xl font-bold text-white shadow-sm mb-6">
