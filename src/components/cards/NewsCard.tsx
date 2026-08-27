@@ -20,7 +20,7 @@ export function NewsCard({ title, date, category, summary, imageUrl, isFeatured 
           {imageUrl ? (
             <img src={imageUrl} alt={title} className="w-full h-full object-contain p-4 bg-white group-hover:scale-105 transition-transform duration-500" />
           ) : (
-            <span className="text-slate-400 font-medium">[FEATURED_IMAGE]</span>
+            <span className="text-slate-400 font-medium">PHOTO</span>
           )}
         </div>
         <div className="p-8 md:w-1/2 flex flex-col justify-center">
@@ -51,7 +51,7 @@ export function NewsCard({ title, date, category, summary, imageUrl, isFeatured 
         {imageUrl ? (
           <img src={imageUrl} alt={title} className="w-full h-full object-contain p-4 bg-white group-hover:scale-105 transition-transform duration-500" />
         ) : (
-          <span className="text-slate-400 font-medium">[IMAGE]</span>
+          <span className="text-slate-400 font-medium">PHOTO</span>
         )}
       </div>
       <div className="p-6 flex flex-col flex-1">

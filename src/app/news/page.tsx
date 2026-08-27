@@ -1,6 +1,4 @@
 import { NewsCard } from "@/components/cards/NewsCard"
-import { Button } from "@/components/ui/Button"
-import { Input } from "@/components/ui/Input"
 
 export const metadata = {
   title: "News - The Excitation Dynamics & Organic Materials Group",
@@ -48,22 +46,14 @@ export default function NewsPage() {
             <h2 className="font-heading text-3xl font-bold text-slate-900">Recent Articles</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 mb-12">
-            {/* Additional news cards will go here */}
-          </div>
-        </section>
-
-        {/* Newsletter Subscription */}
-        <section className="bg-primary/5 rounded-3xl p-10 md:p-16 border border-primary/10 text-center">
-          <div className="max-w-2xl mx-auto">
-            <h3 className="font-heading text-3xl font-bold text-slate-900 mb-4">Subscribe to our Newsletter</h3>
-            <p className="text-slate-600 mb-8">
-              Get the latest updates on our research, publications, and open positions delivered directly to your inbox.
-            </p>
-            <div className="flex flex-col sm:flex-row gap-4 max-w-md mx-auto">
-              <Input type="email" placeholder="Enter your email address" className="flex-1" />
-              <Button type="button" className="w-full sm:w-auto">Subscribe</Button>
-            </div>
-            <p className="text-xs text-slate-400 mt-4">We respect your privacy and will never share your information.</p>
+            <NewsCard
+              title="New Publication in Spectrochimica Acta Part A"
+              date="2026"
+              category="Publication"
+              summary="Our recent work 'Host-controlled switching between TADF and RTP in acridone–carboline donor–acceptor dyads' has been accepted."
+              link="https://doi.org/10.1016/j.saa.2026.128670"
+              imageUrl="/images/publication-spectrochimica.jpg"
+            />
           </div>
         </section>
       </div>
