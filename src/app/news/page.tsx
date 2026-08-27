@@ -3,7 +3,7 @@ import { Button } from "@/components/ui/Button"
 import { Input } from "@/components/ui/Input"
 
 export const metadata = {
-  title: "News - [LAB_NAME]",
+  title: "News - The Excitation Dynamics & Organic Materials Group",
   description: "Latest news and updates from our laboratory.",
 }
 

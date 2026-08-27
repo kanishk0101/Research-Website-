@@ -1,7 +1,7 @@
 import { ResearchCard } from "@/components/cards/ResearchCard"
 
 export const metadata = {
-  title: "Research - [LAB_NAME]",
+  title: "Research - The Excitation Dynamics & Organic Materials Group",
   description: "Explore the research areas of our laboratory.",
 }
 
