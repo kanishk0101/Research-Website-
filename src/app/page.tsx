@@ -68,7 +68,6 @@ export default function Home() {
             <ResearchCard
               title="Organic Spintronics & Quantum Spin Dynamics"
               overview="A few organic molecules exhibit exceptionally long spin-coherence lifetimes, making them ideal candidates for quantum information processing and spintronic devices. We design highly rigid, radical-functionalized, or metal-coordinated organic architectures to study spin injection and transport properties. We aims to unravel the fundamental mechanisms governing spin-polarized charge transport, magnetoresistance effects, and chiral induced spin selectivity."
-              imageUrl="/images/organic-spintronics.jpg"
             />
           </div>
           <div className="mt-8 text-center md:hidden">
@@ -155,15 +154,13 @@ export default function Home() {
             </Link>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-            {[1, 2, 3].map((i) => (
-              <NewsCard
-                key={i}
-                title={`[LATEST_NEWS_TITLE_${i}]`}
-                category="[CATEGORY]"
-                date="[MONTH DD, YYYY]"
-                summary="[NEWS_SUMMARY_PLACEHOLDER] Read about our latest achievements and lab updates..."
-              />
-            ))}
+            <NewsCard
+              title="New Publication in Spectrochimica Acta Part A"
+              date="2026"
+              category="Publication"
+              summary="Our recent work 'Host-controlled switching between TADF and RTP in acridone–carboline donor–acceptor dyads' has been accepted."
+              link="https://doi.org/10.1016/j.saa.2026.128670"
+            />
           </div>
         </div>
       </section>

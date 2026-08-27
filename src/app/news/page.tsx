@@ -32,10 +32,11 @@ export default function NewsPage() {
             Featured
           </h2>
           <NewsCard
-            title="[FEATURED_NEWS_TITLE] Lab secures major funding for sustainable materials research"
-            date="[MONTH DD, YYYY]"
-            category="[GRANT]"
-            summary="[FEATURED_SUMMARY_PLACEHOLDER] We are thrilled to announce that our lab has been awarded a significant grant from [FUNDING_AGENCY]. This funding will allow us to accelerate our research into..."
+            title="New Publication in Spectrochimica Acta Part A"
+            date="2026"
+            category="Publication"
+            summary="Our recent work 'Host-controlled switching between TADF and RTP in acridone–carboline donor–acceptor dyads' has been accepted."
+            link="https://doi.org/10.1016/j.saa.2026.128670"
             isFeatured={true}
           />
         </section>
@@ -44,21 +45,9 @@ export default function NewsPage() {
         <section className="mb-16">
           <div className="flex items-center justify-between mb-8 pb-4 border-b border-slate-200">
             <h2 className="font-heading text-3xl font-bold text-slate-900">Recent Articles</h2>
-            {/* Optional category filters could go here */}
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 mb-12">
-            <NewsCard
-              title="New Publication in Spectrochimica Acta Part A"
-              date="2026"
-              category="Publication"
-              summary="Our recent work 'Host-controlled switching between TADF and RTP in acridone–carboline donor–acceptor dyads' has been accepted."
-            />
-            <NewsCard
-              title="[NEWS_TITLE]"
-              date="[MONTH DD, YYYY]"
-              category="[CATEGORY]"
-              summary="[NEWS_SUMMARY_PLACEHOLDER] Detailed information about the specific news event goes here..."
-            />
+            {/* Additional news cards will go here */}
           </div>
         </section>
 

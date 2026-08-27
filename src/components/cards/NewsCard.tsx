@@ -9,9 +9,10 @@ interface NewsCardProps {
   summary: string
   imageUrl?: string
   isFeatured?: boolean
+  link?: string
 }
 
-export function NewsCard({ title, date, category, summary, imageUrl, isFeatured = false }: NewsCardProps) {
+export function NewsCard({ title, date, category, summary, imageUrl, isFeatured = false, link }: NewsCardProps) {
   if (isFeatured) {
     return (
       <div className="group bg-white rounded-3xl overflow-hidden border border-slate-200 shadow-sm hover:shadow-md transition-shadow flex flex-col md:flex-row">
@@ -31,12 +32,14 @@ export function NewsCard({ title, date, category, summary, imageUrl, isFeatured 
             </div>
           </div>
           <h2 className="font-heading text-2xl font-bold text-slate-900 mb-4 group-hover:text-primary transition-colors">
-            <Link href="#">{title}</Link>
+            {link ? <Link href={link}>{title}</Link> : <span>{title}</span>}
           </h2>
           <p className="text-slate-600 leading-relaxed mb-6">{summary}</p>
-          <Link href="#" className="text-primary font-semibold hover:underline inline-flex items-center">
-            Read Full Article &rarr;
-          </Link>
+          {link && (
+            <Link href={link} className="text-primary font-semibold hover:underline inline-flex items-center">
+              Read Full Article &rarr;
+            </Link>
+          )}
         </div>
       </div>
     )
@@ -60,12 +63,14 @@ export function NewsCard({ title, date, category, summary, imageUrl, isFeatured 
           </div>
         </div>
         <h3 className="font-heading text-lg font-bold text-slate-900 mb-3 group-hover:text-primary transition-colors line-clamp-2">
-          <Link href="#">{title}</Link>
+          {link ? <Link href={link}>{title}</Link> : <span>{title}</span>}
         </h3>
         <p className="text-slate-600 text-sm leading-relaxed mb-6 line-clamp-3 flex-1">{summary}</p>
-        <Link href="#" className="text-primary text-sm font-semibold hover:underline inline-flex items-center mt-auto">
-          Read More &rarr;
-        </Link>
+        {link && (
+          <Link href={link} className="text-primary text-sm font-semibold hover:underline inline-flex items-center mt-auto">
+            Read More &rarr;
+          </Link>
+        )}
       </div>
     </div>
   )

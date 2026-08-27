@@ -58,7 +58,6 @@ export default function ResearchPage() {
             <ResearchCard
               title="Organic Spintronics & Quantum Spin Dynamics"
               overview="A few organic molecules exhibit exceptionally long spin-coherence lifetimes, making them ideal candidates for quantum information processing and spintronic devices. We design highly rigid, radical-functionalized, or metal-coordinated organic architectures to study spin injection and transport properties. We aims to unravel the fundamental mechanisms governing spin-polarized charge transport, magnetoresistance effects, and chiral induced spin selectivity."
-              imageUrl="/images/organic-spintronics.jpg"
             />
           </div>
         </div>
