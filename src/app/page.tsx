@@ -16,10 +16,10 @@ export default function Home() {
           <div className="flex flex-col lg:flex-row items-center gap-12">
             <div className="lg:w-3/5 text-center lg:text-left">
               <span className="uppercase tracking-widest text-sm font-semibold text-primary mb-4 block">UM-DAE Centre for Excellence in Basic Sciences</span>
-              <h1 className="font-heading text-4xl md:text-5xl lg:text-6xl font-bold mb-6 tracking-tight">
+              <h1 className="font-heading text-3xl md:text-4xl lg:text-5xl font-bold mb-6 tracking-tight">
                 The Excitation Dynamics &<br />Organic Materials Group
               </h1>
-              <p className="text-lg md:text-xl text-slate-300 max-w-2xl mx-auto lg:mx-0 font-light">
+              <p className="text-base md:text-lg text-slate-300 max-w-2xl mx-auto lg:mx-0 font-light">
                 Manipulating excitons and photons through the design of advanced conjugated organic materials for next-generation organic electronics, photonic devices, and targeted therapeutic applications.
               </p>
             </div>

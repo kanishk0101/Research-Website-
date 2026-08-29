@@ -3,36 +3,32 @@
 import * as React from "react"
 import { ChevronLeft, ChevronRight } from "lucide-react"
 
-const images = [
-  "/images/organic-spintronics.jpg",
-  "/images/oleds-photophysics.png",
-  "/images/targeted-photomedicine.png",
-]
+const slides = [1, 2, 3]
 
 export function HeroSlider() {
   const [currentIndex, setCurrentIndex] = React.useState(0)
 
   React.useEffect(() => {
     const timer = setInterval(() => {
-      setCurrentIndex((prev) => (prev + 1) % images.length)
+      setCurrentIndex((prev) => (prev + 1) % slides.length)
     }, 5000)
     return () => clearInterval(timer)
   }, [])
 
-  const prev = () => setCurrentIndex((prev) => (prev - 1 + images.length) % images.length)
-  const next = () => setCurrentIndex((prev) => (prev + 1) % images.length)
+  const prev = () => setCurrentIndex((prev) => (prev - 1 + slides.length) % slides.length)
+  const next = () => setCurrentIndex((prev) => (prev + 1) % slides.length)
 
   return (
-    <div className="relative w-full aspect-[4/3] rounded-2xl overflow-hidden shadow-2xl border-4 border-white/10 group">
-      {images.map((src, index) => (
-        <img
-          key={src}
-          src={src}
-          alt={`Slide ${index + 1}`}
-          className={`absolute inset-0 w-full h-full object-cover transition-opacity duration-1000 ${
+    <div className="relative w-full aspect-[16/9] rounded-2xl overflow-hidden shadow-2xl border-4 border-white/10 group">
+      {slides.map((_, index) => (
+        <div
+          key={index}
+          className={`absolute inset-0 w-full h-full bg-slate-800/60 backdrop-blur-sm flex items-center justify-center transition-opacity duration-1000 ${
             index === currentIndex ? "opacity-100 z-10" : "opacity-0 z-0"
           }`}
-        />
+        >
+          <span className="text-slate-400/80 font-medium tracking-widest text-sm uppercase">Slide {index + 1}</span>
+        </div>
       ))}
       
       {/* Controls */}
@@ -53,7 +49,7 @@ export function HeroSlider() {
 
       {/* Dots */}
       <div className="absolute bottom-4 left-0 right-0 z-20 flex justify-center space-x-2">
-        {images.map((_, index) => (
+        {slides.map((_, index) => (
           <button
             key={index}
             onClick={() => setCurrentIndex(index)}
