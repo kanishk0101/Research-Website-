@@ -4,21 +4,29 @@ import { ResearchCard } from "@/components/cards/ResearchCard"
 import { PublicationCard } from "@/components/cards/PublicationCard"
 import { NewsCard } from "@/components/cards/NewsCard"
 
+import { HeroSlider } from "@/components/ui/HeroSlider"
+
 export default function Home() {
   return (
     <div className="flex flex-col min-h-screen">
       {/* Hero Section */}
       <section className="relative bg-slate-900 text-white overflow-hidden pt-32 pb-20 lg:pt-48 lg:pb-32">
         <div className="absolute inset-0 opacity-20 bg-cover bg-center" style={{ backgroundImage: 'url(https://images.unsplash.com/photo-1532094349884-543bc11b234d?auto=format&fit=crop&q=80)' }} />
-        <div className="container mx-auto px-4 relative z-10 text-center max-w-4xl">
-          <span className="uppercase tracking-widest text-sm font-semibold text-primary mb-4 block">UM-DAE Centre for Excellence in Basic Sciences</span>
-          <h1 className="font-heading text-4xl md:text-6xl font-bold mb-6 tracking-tight">
-            The Excitation Dynamics &<br />Organic Materials Group
-          </h1>
-          <p className="text-lg md:text-xl text-slate-300 mb-10 max-w-2xl mx-auto font-light">
-            Manipulating excitons and photons through the design of advanced conjugated organic materials for next-generation organic electronics, photonic devices, and targeted therapeutic applications.
-          </p>
-
+        <div className="container mx-auto px-4 relative z-10">
+          <div className="flex flex-col lg:flex-row items-center gap-12">
+            <div className="lg:w-3/5 text-center lg:text-left">
+              <span className="uppercase tracking-widest text-sm font-semibold text-primary mb-4 block">UM-DAE Centre for Excellence in Basic Sciences</span>
+              <h1 className="font-heading text-4xl md:text-5xl lg:text-6xl font-bold mb-6 tracking-tight">
+                The Excitation Dynamics &<br />Organic Materials Group
+              </h1>
+              <p className="text-lg md:text-xl text-slate-300 max-w-2xl mx-auto lg:mx-0 font-light">
+                Manipulating excitons and photons through the design of advanced conjugated organic materials for next-generation organic electronics, photonic devices, and targeted therapeutic applications.
+              </p>
+            </div>
+            <div className="lg:w-2/5 w-full max-w-md mx-auto">
+              <HeroSlider />
+            </div>
+          </div>
         </div>
       </section>
 
